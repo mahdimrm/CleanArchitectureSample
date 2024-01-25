@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{089EB64E-2527-446A-97CC-58A9ED6E88D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Core", "01.Core", "{1A1D9355-69CC-483B-B224-C484FF2D7DC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Infrastructure", "02.Infrastructure", "{B0F5D2C2-864A-47BA-91DB-F28B0BFA24B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.Presentation", "03.Presentation", "{D50DC3C6-E9AF-4F01-829A-405CCF2CF188}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstraction", "Abstraction", "{8501657B-E9C0-4E26-B7D0-655DC71FDBB8}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A1D9355-69CC-483B-B224-C484FF2D7DC7} = {089EB64E-2527-446A-97CC-58A9ED6E88D7}
+		{B0F5D2C2-864A-47BA-91DB-F28B0BFA24B9} = {089EB64E-2527-446A-97CC-58A9ED6E88D7}
+		{D50DC3C6-E9AF-4F01-829A-405CCF2CF188} = {089EB64E-2527-446A-97CC-58A9ED6E88D7}
+		{8501657B-E9C0-4E26-B7D0-655DC71FDBB8} = {1A1D9355-69CC-483B-B224-C484FF2D7DC7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453AA580-D49E-4C12-8BF6-A4FE3FE4C086}
+	EndGlobalSection
+EndGlobal
